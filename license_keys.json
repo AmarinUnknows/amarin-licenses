@@ -1,0 +1,57 @@
+{
+  "licenses": [
+    {
+      "key": "key",
+      "status": "active",
+      "username": "user",
+      "license_type": "3day",
+      "created": "2024-08-30T10:00:00Z",
+      "activated": "2024-08-30T10:00:00Z",
+      "expires": "2024-09-02T10:00:00Z",
+      "hwid": "",
+      "max_uses": 1,
+      "current_uses": 0
+    },
+    {
+      "key": "key",
+      "status": "active",
+      "username": "user",
+      "license_type": "1week",
+      "created": "2024-08-30T10:00:00Z",
+      "activated": "2024-08-30T10:00:00Z",
+      "expires": "2024-09-06T10:00:00Z",
+      "hwid": "",
+      "max_uses": 1,
+      "current_uses": 0
+    },
+    {
+      "key": "key",
+      "status": "active",
+      "username": "user",
+      "license_type": "1month",
+      "created": "2024-08-30T10:00:00Z",
+      "activated": "2024-08-30T10:00:00Z",
+      "expires": "2024-09-30T10:00:00Z",
+      "hwid": "",
+      "max_uses": 1,
+      "current_uses": 0
+    },
+    {
+      "key": "key",
+      "status": "active",
+      "username": "user",
+      "license_type": "1year",
+      "created": "2024-08-30T10:00:00Z",
+      "activated": "2024-08-30T10:00:00Z",
+      "expires": "2025-08-30T10:00:00Z",
+      "hwid": "",
+      "max_uses": 1,
+      "current_uses": 0
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2024-08-30T12:00:00Z"
+  },
+  "signature": "placeholder-signature-here"
+}
