@@ -1,64 +1,64 @@
 {
   "licenses": [
     {
-      "activated": "2025-08-30T15:29:03Z",
+      "activated": "",
       "created": "",
       "current_uses": 0,
       "expires": "",
-      "hwid": "7819798229744852540",
-      "key": "HRLL8V5062ZYL7U5QV12",
+      "hwid": "soon",
+      "key": "soon",
       "license_type": "3day",
       "max_uses": 1,
       "status": "active",
-      "username": "Admin"
+      "username": "soon"
     },
     {
-      "activated": "2025-08-30T17:20:19Z",
+      "activated": "",
       "created": "",
       "current_uses": 0,
       "expires": "",
-      "hwid": "7819798229744852530",
-      "key": "RAGMIT4WL70HUROG3FSC",
+      "hwid": "soon",
+      "key": "soon",
       "license_type": "3day",
       "max_uses": 1,
       "status": "active",
-      "username": "Amrin"
+      "username": "soon"
     },
     {
-      "activated": "2024-08-30T10:00:00Z",
-      "created": "2024-08-30T10:00:00Z",
+      "activated": "",
+      "created": "",
       "current_uses": 0,
-      "expires": "2024-09-06T10:00:00Z",
-      "hwid": "",
-      "key": "1WEEK-GHI789-JKL012",
+      "expires": "",
+      "hwid": "soon",
+      "key": "soon",
       "license_type": "1week",
       "max_uses": 1,
       "status": "active",
-      "username": "user456"
+      "username": "soon"
     },
     {
-      "activated": "2024-08-30T10:00:00Z",
-      "created": "2024-08-30T10:00:00Z",
+      "activated": "",
+      "created": "",
       "current_uses": 0,
-      "expires": "2024-09-30T10:00:00Z",
-      "hwid": "",
-      "key": "1MONTH-MNO345-PQR678",
+      "expires": "",
+      "hwid": "soon",
+      "key": "soon",
       "license_type": "1month",
       "max_uses": 1,
       "status": "active",
-      "username": "user789"
+      "username": "soon"
     },
     {
-      "activated": "2024-08-30T10:00:00Z",
-      "created": "2024-08-30T10:00:00Z",
+      "activated": "",
+      "created": "",
       "current_uses": 0,
-      "expires": "2025-08-30T10:00:00Z",
-      "hwid": "",
-      "key": "1YEAR-STU901-VWX234",
+      "expires": "",
+      "hwid": "soon",
+      "key": "soon",
       "license_type": "1year",
       "max_uses": 1,
       "status": "active",
-      "username": "user012"
+      "username": "soon"
     }
   ],
   "metadata": {
