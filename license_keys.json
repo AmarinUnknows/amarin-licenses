@@ -1,9 +1,9 @@
 {
   "licenses": [
     {
-      "key": "key",
+      "key": "3DAY-ABC123-DEF456",
       "status": "active",
-      "username": "user",
+      "username": "user123",
       "license_type": "3day",
       "created": "2024-08-30T10:00:00Z",
       "activated": "2024-08-30T10:00:00Z",
@@ -13,9 +13,9 @@
       "current_uses": 0
     },
     {
-      "key": "key",
+      "key": "1WEEK-GHI789-JKL012",
       "status": "active",
-      "username": "user",
+      "username": "user456",
       "license_type": "1week",
       "created": "2024-08-30T10:00:00Z",
       "activated": "2024-08-30T10:00:00Z",
@@ -25,9 +25,9 @@
       "current_uses": 0
     },
     {
-      "key": "key",
+      "key": "1MONTH-MNO345-PQR678",
       "status": "active",
-      "username": "user",
+      "username": "user789",
       "license_type": "1month",
       "created": "2024-08-30T10:00:00Z",
       "activated": "2024-08-30T10:00:00Z",
@@ -37,9 +37,9 @@
       "current_uses": 0
     },
     {
-      "key": "key",
+      "key": "1YEAR-STU901-VWX234",
       "status": "active",
-      "username": "user",
+      "username": "user012",
       "license_type": "1year",
       "created": "2024-08-30T10:00:00Z",
       "activated": "2024-08-30T10:00:00Z",
