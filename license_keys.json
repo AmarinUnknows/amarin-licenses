@@ -1,57 +1,57 @@
 {
   "licenses": [
     {
-      "key": "HRLL8V5062ZYL7U5QV12",
-      "status": "active",
-      "username": "user123",
-      "license_type": "3day",
+      "activated": "2025-08-30T15:29:03Z",
       "created": "",
-      "activated": "",
+      "current_uses": 0,
       "expires": "",
-      "hwid": "",
+      "hwid": "7819798229744852530",
+      "key": "HRLL8V5062ZYL7U5QV12",
+      "license_type": "3day",
       "max_uses": 1,
-      "current_uses": 0
+      "status": "active",
+      "username": "user123"
     },
     {
-      "key": "1WEEK-GHI789-JKL012",
-      "status": "active",
-      "username": "user456",
-      "license_type": "1week",
-      "created": "2024-08-30T10:00:00Z",
       "activated": "2024-08-30T10:00:00Z",
+      "created": "2024-08-30T10:00:00Z",
+      "current_uses": 0,
       "expires": "2024-09-06T10:00:00Z",
       "hwid": "",
+      "key": "1WEEK-GHI789-JKL012",
+      "license_type": "1week",
       "max_uses": 1,
-      "current_uses": 0
+      "status": "active",
+      "username": "user456"
     },
     {
-      "key": "1MONTH-MNO345-PQR678",
-      "status": "active",
-      "username": "user789",
-      "license_type": "1month",
-      "created": "2024-08-30T10:00:00Z",
       "activated": "2024-08-30T10:00:00Z",
+      "created": "2024-08-30T10:00:00Z",
+      "current_uses": 0,
       "expires": "2024-09-30T10:00:00Z",
       "hwid": "",
+      "key": "1MONTH-MNO345-PQR678",
+      "license_type": "1month",
       "max_uses": 1,
-      "current_uses": 0
+      "status": "active",
+      "username": "user789"
     },
     {
-      "key": "1YEAR-STU901-VWX234",
-      "status": "active",
-      "username": "user012",
-      "license_type": "1year",
-      "created": "2024-08-30T10:00:00Z",
       "activated": "2024-08-30T10:00:00Z",
+      "created": "2024-08-30T10:00:00Z",
+      "current_uses": 0,
       "expires": "2025-08-30T10:00:00Z",
       "hwid": "",
+      "key": "1YEAR-STU901-VWX234",
+      "license_type": "1year",
       "max_uses": 1,
-      "current_uses": 0
+      "status": "active",
+      "username": "user012"
     }
   ],
   "metadata": {
-    "version": "1.0",
-    "last_updated": "2024-08-30T12:00:00Z"
+    "last_updated": "2025-08-30T15:29:03Z",
+    "version": "1.0"
   },
   "signature": "placeholder-signature-here"
 }
