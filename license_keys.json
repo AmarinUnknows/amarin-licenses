@@ -1,11 +1,11 @@
 {
   "licenses": [
     {
-      "activated": "",
+      "activated": "2025-08-31T11:44:04Z",
       "created": "",
       "current_uses": 0,
-      "expires": "",
-      "hwid": "",
+      "expires": "2025-09-03T11:44:04Z",
+      "hwid": "9746534183541815890",
       "key": "A5UFttuk4EKY7pyKvEzRb9O0MjGvci",
       "license_type": "3day",
       "max_uses": 1,
@@ -50,7 +50,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-08-31T08:50:50Z",
+    "last_updated": "2025-08-31T11:44:04Z",
     "version": "1.0"
   },
   "signature": "placeholder-signature-here"
