@@ -47,18 +47,6 @@
       "max_uses": 1,
       "status": "active",
       "username": ""
-    },
-    {
-      "activated": "",
-      "created": "2025-08-31T13:48:51.304634",
-      "current_uses": 0,
-      "expires": "2025-09-01",
-      "hwid": "",
-      "key": "test",
-      "license_type": "3day",
-      "max_uses": 1,
-      "status": "active",
-      "username": ""
     }
   ],
   "metadata": {
