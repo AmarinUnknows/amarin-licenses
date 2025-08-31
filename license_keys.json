@@ -13,11 +13,11 @@
       "username": "Admin"
     },
     {
-      "activated": "",
+      "activated": "2025-08-31T13:20:47Z",
       "created": "",
       "current_uses": 0,
-      "expires": "",
-      "hwid": "",
+      "expires": "2025-09-07T13:20:47Z",
+      "hwid": "9746534183541815890",
       "key": "q6UPAzJ2mVgYkHt1BdN7oLefwXR0CE",
       "license_type": "1week",
       "max_uses": 1,
@@ -50,7 +50,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2025-08-31T11:44:04Z",
+    "last_updated": "2025-08-31T13:20:47Z",
     "version": "1.0"
   },
   "signature": "placeholder-signature-here"
