@@ -47,6 +47,18 @@
       "max_uses": 1,
       "status": "active",
       "username": ""
+    },
+    {
+      "key": "test",
+      "status": "active",
+      "license_type": "3day",
+      "expires": "",
+      "hwid": "",
+      "activated": "",
+      "created": "2025-08-31T19:47:57.102081",
+      "current_uses": 0,
+      "max_uses": 1,
+      "username": "tobieralonso"
     }
   ],
   "metadata": {
