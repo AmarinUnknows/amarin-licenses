@@ -11,6 +11,18 @@
       "current_uses": 0,
       "max_uses": 1,
       "username": "cpu"
+    },
+    {
+      "key": "A5UFttuk4EKY7pyKvEzRb9O0MjGvci",
+      "status": "active",
+      "license_type": "3day",
+      "expires": "2025-09-09T22:57:00",
+      "hwid": "",
+      "activated": "2025-09-07T22:57:00",
+      "created": "2025-09-07T22:58:01.879252",
+      "current_uses": 0,
+      "max_uses": 1,
+      "username": "amarin"
     }
   ],
   "metadata": {
