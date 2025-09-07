@@ -11,18 +11,6 @@
       "max_uses": 1,
       "status": "active",
       "username": "Admin"
-    },
-    {
-      "activated": "",
-      "created": "",
-      "current_uses": 0,
-      "expires": "",
-      "hwid": "",
-      "key": "ZcYTq3mLxG50KUuPbXv8RsznFoajMi",
-      "license_type": "1month",
-      "max_uses": 1,
-      "status": "active",
-      "username": ""
     }
   ],
   "metadata": {
