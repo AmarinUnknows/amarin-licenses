@@ -37,20 +37,20 @@
       "username": "Admin"
     },
     {
-      "key": "hUcr6LbnF1ExERnOkiZbPSnQ4SjhHH6Yh",
-      "status": "active",
-      "license_type": "3day",
-      "expires": "2025-09-13T19:30:00",
-      "hwid": "",
-      "activated": "2025-09-10T19:30:00",
+      "activated": "2025-09-10T13:38:08Z",
       "created": "2025-09-10T19:30:48.098178",
       "current_uses": 0,
+      "expires": "2025-09-13T19:30:00",
+      "hwid": "13531586202946321998",
+      "key": "hUcr6LbnF1ExERnOkiZbPSnQ4SjhHH6Yh",
+      "license_type": "3day",
       "max_uses": 1,
+      "status": "active",
       "username": "User Free"
     }
   ],
   "metadata": {
-    "last_updated": "2025-09-08T11:49:21Z",
+    "last_updated": "2025-09-10T13:38:08Z",
     "version": "1.0"
   },
   "signature": "placeholder-signature-here"
