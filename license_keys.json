@@ -47,6 +47,18 @@
       "current_uses": 0,
       "max_uses": 1,
       "username": "User Free 2"
+    },
+    {
+      "key": "tD2mJ8cW7qV4pL1gN6hR9fE3sB5xUoA",
+      "status": "active",
+      "license_type": "3day",
+      "expires": "2025-09-13T21:16:00",
+      "hwid": "",
+      "activated": "2025-09-10T21:16:00",
+      "created": "2025-09-10T21:16:39.380763",
+      "current_uses": 0,
+      "max_uses": 1,
+      "username": "User Free 3"
     }
   ],
   "metadata": {
