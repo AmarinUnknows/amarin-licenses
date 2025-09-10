@@ -23,18 +23,6 @@
       "max_uses": 1,
       "status": "active",
       "username": "Amarin"
-    },
-    {
-      "activated": "2025-09-08T09:44:00",
-      "created": "2025-09-08T09:44:15.572552",
-      "current_uses": 0,
-      "expires": "2025-09-10T09:44:00",
-      "hwid": "",
-      "key": "Dev",
-      "license_type": "3day",
-      "max_uses": 1,
-      "status": "active",
-      "username": "Admin"
     }
   ],
   "metadata": {
